@@ -1,0 +1,22 @@
+{
+  "name": "portalbackend",
+  "version": "1.0.0",
+  "description": "Bench Sharing Portal Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "portal"
+  ],
+  "author": "Abuzar ali",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7",
+    "prettier": "^3.3.3"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
